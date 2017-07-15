@@ -1,5 +1,7 @@
-# flash_Pendant #
-用canvas与jquery制作的一个简单写字板。
+# flash-Pendant #
 
+一些 博客小挂件
 
-![](http://i.imgur.com/0ZeonRJ.png)
+aBowman，它主要是针对google小工具模块而开发的，使用起来很简单，只要将代码复制到博客的源码（html 模式下）就可以实现挂件展示。它可以为你的博客或者网站添加鱼、龟、狗、仓鼠等各式各样的虚拟宠物，是很讨人喜欢的博客装饰。
+
+官网地址： http://abowman.com/
